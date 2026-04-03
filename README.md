@@ -1,6 +1,7 @@
 # Ray Tracing In One Weekend with SlangPy
-a port of Ray Tracing in One Weekend written in python and slang via [SlangPy](https://slangpy.shader-slang.org/en/latest/)
 ![](https://github.com/Delee0209/Ray-Tracing-In-One-Weekend-with-SlangPy/blob/main/captured/screenshot.png?raw=true)
+
+Implementation of Ray Tracing in One Weekend written in python and slang via [SlangPy](https://slangpy.shader-slang.org/en/latest/)
 
 ## Dependencies
 - Python >= 3.9
