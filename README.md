@@ -1,2 +1,13 @@
-# Ray-Tracing-In-One-Weekend-with-SlangPy
-a port of ray tracing in one weekend written in python and slang via slangpy
+# Ray Tracing In One Weekend with SlangPy
+a port of Ray Tracing in One Weekend written in python and slang via [SlangPy](https://slangpy.shader-slang.org/en/latest/)
+![](https://github.com/Delee0209/Ray-Tracing-In-One-Weekend-with-SlangPy/blob/main/captured/screenshot.png?raw=true)
+
+## Dependencies
+- Python >= 3.9
+- SlangPy   `pip install slangpy`
+- NumPy     `pip install numpy`
+
+## Run Program
+- `rtiow.py` is the main program
+  - containing scene setup and camera parameters
+  - to execute, simply use `python rtiow.py`
